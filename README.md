@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/python"/> 
  <img src="https://img.shields.io/badge/c++"/> 
- <img src = "https://img.shields.io/badge/TensorFlow&logo=TensorFlow&logoColor=orange">
+ <img src = "https://img.shields.io/badge/TensorFlow?style=flat&logo=TensorFlow&logoColor=orange">
  <img src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
  <img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
  <img src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white">

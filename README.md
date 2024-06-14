@@ -31,4 +31,4 @@
 
 
 ## ✍ 3AM wisdom
-**"Working with Attention. It's all I need"**
+**"Working with Attention. It's all we need"**

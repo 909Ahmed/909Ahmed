@@ -1,8 +1,7 @@
 # Hey! This is Asaduddin.
 
 # About Me:
-👨‍🎓 I’m currently a 3rd year student pursuing my Bachelors in Computer Science and Engineering from IIT Palakkad<br>🔭 Always on lookout for creating and finding exciting github repos<br>👯 Enthusiastic Software developer with niche in Deep learning<br> 🤹‍♂️ Trying to go deep into the vortex of Deep Learning and AI wizardry
-
+👨‍🎓 I’m currently a 3rd year student pursuing my Bachelors in Computer Science and Engineering from IIT Palakkad<br>🔭 Always on lookout for creating and finding exciting github repos<br>👯 Enthusiastic Software developer with niche in Deep learning<br> 🤹‍♂️ Eager to stay at the forefront of gen AI advancements
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/909ahmed) 
@@ -30,5 +29,5 @@
 </div>
 
 
-## ✍ 3AM wisdom
-**"Working with Attention. It's all we need"**
+
+_"Working with Attention. It's all we need"_
